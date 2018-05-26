@@ -1,0 +1,389 @@
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Form1.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Hotel Frba 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Form1.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.AltaUsuario.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.AltaUsuario.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Listado_de_seleccion_usuario.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_de_Usuario.Listado_Usuario.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\Aplicacion crist\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Form2.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Form2.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\Gestion de datos\TP Pago electronico\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP Pago Electronico UTN 1.0 - 1C 2015\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\TP1C2015 K3013 ESCUADRON_SUICIDA 18\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\asd\src\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\actual\Aplicacion Desktop\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\ultima\A\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV5.0\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Mis documentos\Downloads\PostaV6.0.1\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.2\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\bin\Debug\PagoElectronico.pdb
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AltaCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.AsociarTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.Listado_de_seleccion_cliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.ModificarCliente.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cliente.SeleccionDeTarjetas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.AltaCuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.Listado_de_seleccion_Cuenta.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Cuenta.ModificarCuentas.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.AltaRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.Listado_de_seleccion_Rol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.ABM_Rol.ModificarRol.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Consulta_Saldos.Consulta_de_saldo.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Deposito.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Depositos.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Facturacion.Facturar.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Listados.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Listado_de_Roles.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Login.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Login.Tablero.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Properties.Resources.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Listado.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Retiros.Retiro.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.Transferencias.Realizar_Transferencia.resources
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.csproj.GenerateResource.Cache
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.exe
+C:\Documents and Settings\VMGDD\Escritorio\PostaV6.1.4\PagoElectronico\PagoElectronico\obj\Debug\PagoElectronico.pdb
